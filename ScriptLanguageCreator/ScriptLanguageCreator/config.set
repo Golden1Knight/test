@@ -1,0 +1,4 @@
+{:scriptLanguageCreator.textPrintedClass = get.allClassObject}
+{:scriptLanguageCreator.blockedNames.modeContent = True}
+
+{:scriptLanguageCreator.interpreterCanLoaded = True}
